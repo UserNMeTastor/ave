@@ -1,0 +1,91 @@
+            .menu{
+                display: grid;
+                grid-template-columns: 17% 17% 17% 17% 17%;
+                background-color: #A9A6A6;
+                height: 80px;
+                opacity: 0.9;
+                border-radius: 0 0 40px 40px;
+            }
+            ul.menu > li{
+                font-size:  260%;
+                padding-left: 30px;
+                padding-right: 30px;
+                list-style-type: none;
+                text-align: center;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+                opacity: 1;
+            }
+            body{
+                background: url(https://i.stack.imgur.com/s1Qob.jpg) no-repeat;
+                background-color: grey;
+                background-size: 300%;
+                background-attachment:fixed;
+                color: white; 
+                }
+            div{
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+            p{
+                padding-top: 5px;
+                font-size: 160%;
+                font-family: Helvetica;
+                text-indent: 30px;
+                max-width: 2000px;
+                }
+            z{
+                height: 80px;
+                font-size: 245%;
+                background-color: #A9A6A6;
+                opacity: 0.9;
+                display: grid;
+                grid-template-columns: 100%;
+            }
+            .logoImg{
+                max-width: 70px;
+                max-height:70px ;
+            }
+            .imgAbout{
+                width: 440px;
+                height: 286px;
+                display: block;
+                position: static;
+            }
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+            table{
+                padding-left: 25px;
+                padding-right: 25px;
+            }
+            .tables-wrap {
+              max-width: 110%;
+            }
+            .tables-wrap > thead {
+              font-size: 130%;
+              text-align: center;
+            }
+
+            .tables-wrap > tbody > tr {
+              vertical-align: top;
+            }
+
+            .tables-wrap table td {
+              width: 110%;
+              font-size: 130%;
+              border: 1px solid #000;
+            }
+            .home{
+                font-size: 130%;
+            }
+            .big{
+                font-size: 175%;
+            }
+            .minibig{
+                font-size: 150%;
+            }

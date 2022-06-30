@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: betonelit.ru
+Sitemap: http://betonelit.ru/sitemap.xml
